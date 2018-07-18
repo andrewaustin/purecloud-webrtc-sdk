@@ -1,5 +1,7 @@
 ## PureCloud WebRTC SDK
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MyPureCloud/purecloud-webrtc-sdk.svg)](https://greenkeeper.io/)
+
 ### Overview
 The PureCloud WebRTC SDK is a client library for connecting to PureCloud WebRTC
 services. Supported WebRTC Features:
